@@ -70,7 +70,7 @@ namespace Number_Guessing_Game
 
                         else
                         {
-                            Console.WriteLine("Thanks for playing! 👋");
+                            Console.WriteLine("Thanks for playing!");
                             break;
                         }
                     }
